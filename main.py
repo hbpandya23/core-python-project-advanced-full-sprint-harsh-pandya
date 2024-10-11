@@ -30,7 +30,8 @@ def errorHandle(checkReturn):
         if (count_len != 0):      # if not empty we will call and startprocess function. 
             startProcess(checkReturn)
         else:                     # if empty, we will exit the script.
-            print("No files found in provided path, Exiting script!")          
+            print("No files found in provided path, Exiting script!")
+            print("Hello")
     return None
 
 #printing final output, howmany files and emp processed.
