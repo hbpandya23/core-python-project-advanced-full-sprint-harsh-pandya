@@ -1,0 +1,62 @@
+[
+    {
+        "First Name": "Tania",
+        "Last Name": "Tasmin",
+        "Date Of Birth (mm/dd/yyyy)": "11/03/1997",
+        "Phone Number": 1234561234,
+        "Address Line 1": "199 Water Street",
+        "Address Line 2": "Fl 34",
+        "City": "New York",
+        "State": "NY",
+        "Zip Code": 10043,
+        "Job Title": "Sales Representative",
+        "Job ID": "SA_REP",
+        "Company Email": "ttasmin@comp.com",
+        "Salary": 60900.0
+    },
+    {
+        "First Name": "Lucia",
+        "Last Name": "Rosado",
+        "Date Of Birth (mm/dd/yyyy)": "11/03/1997",
+        "Phone Number": 1,
+        "Address Line 1": "199 Water Street",
+        "Address Line 2": "Fl 34",
+        "City": "New York",
+        "State": "NY",
+        "Zip Code": 10043,
+        "Job Title": "Sales Representative",
+        "Job ID": "SA_REP",
+        "Company Email": "lrosado@comp.com",
+        "Salary": 60900.0
+    },
+    {
+        "First Name": "Peter",
+        "Last Name": "Jaeger",
+        "Date Of Birth (mm/dd/yyyy)": "11/03/1997",
+        "Phone Number": 9053124567,
+        "Address Line 1": "549 Water Street",
+        "Address Line 2": "Fl 34",
+        "City": "California",
+        "State": "NY",
+        "Zip Code": 10043,
+        "Job Title": "Sales Representative",
+        "Job ID": "HR_MNG",
+        "Company Email": "pjaeger@comp.com",
+        "Salary": 74550.0
+    },
+    {
+        "First Name": "Merry",
+        "Last Name": "Joe",
+        "Date Of Birth (mm/dd/yyyy)": "11/03/1997",
+        "Phone Number": 1,
+        "Address Line 1": "549 Water Street",
+        "Address Line 2": "Fl 34",
+        "City": "California",
+        "State": "NY",
+        "Zip Code": 1,
+        "Job Title": "Sales Representative",
+        "Job ID": "HR_MNG",
+        "Company Email": "mjoe@comp.com",
+        "Salary": 74550.0
+    }
+]
